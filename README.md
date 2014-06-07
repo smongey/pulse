@@ -112,8 +112,7 @@ then Develop > Show Page Source<br><br>
 *Task: Mess some website up*<br>
 
 Starting HTML From Scratch<br>
-[Part 1](http://www.dontfeartheinternet.com/html/don%E2%80%99t-fear-starting-from-scratch)<br><br>
-
+[Part 1](http://www.dontfeartheinternet.com/html/don%E2%80%99t-fear-starting-from-scratch)<br>
 [Part 2](http://www.dontfeartheinternet.com/html/don%E2%80%99t-fear-starting-from-scratch)
 
 
