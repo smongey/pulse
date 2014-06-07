@@ -20,7 +20,7 @@ Who is it for?
 What will it do?
 
 ### Task
-*Write a Brief for your Portfolio Design.*
+*Write a Brief for your Portfolio Design.*<br>
 A brief for yourself. “Easy”, eh…
 
 It should be:
