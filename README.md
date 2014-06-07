@@ -3,7 +3,6 @@
 
 All code examples and material by [Seán Mongey](http://bypost.io/)
 
-
 # Design Stages
 01. Brief<br>
 02. Research
@@ -11,13 +10,11 @@ All code examples and material by [Seán Mongey](http://bypost.io/)
 04. Amend
 05. Build
 
-
-
 ## 01. Brief
 Focus your brief<br>
 What is it?<br>
 Who is it for?<br>
-What will it do?<br><br>
+What will it do?
 
 ### Task
 *Write a Brief for your Portfolio Design.*<br>
@@ -122,6 +119,7 @@ Starting HTML From Scratch<br>
 
 # Next Weeks Tasks
 01. Write Your Brief
+*Single page*
 02. Gather Research
 03. Design Your Site
 04. Write Your Markup
