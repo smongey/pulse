@@ -32,7 +32,7 @@ Visual Research<br>
 Industry Research<br>
 Content Research<br><br>
 
-*ref*<br><br>
+*ref*<br>
 [Pinterest](http://pinterest.com)<br>
 [SiteInspire](http://www.siteinspire.com)<br>
 [Hover States](http://hoverstat.es)<br>
