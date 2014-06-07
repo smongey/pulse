@@ -10,6 +10,7 @@ All code examples and material by [Seán Mongey](http://bypost.io/)
 04. Amend
 05. Build
 
+<br><br>
 ## 01. Brief
 Focus your brief<br>
 What is it?<br>
@@ -24,6 +25,7 @@ It should be:
 A single page brief with a blurb defining what the site will be, what content is needed and who the website is targeted at. Keep in mind the needs of your target audience. You should be able to hand this brief to anyone and they’d have a decent grasp of what you’re trying to achieve.
 
 
+<br><br>
 ## 02. Research
 Visual Research<br>
 Industry Research<br>
@@ -38,7 +40,7 @@ Content Research<br><br>
 [Cargo](http://cargocollective.com)<br>
 [Sennep](http://sennep.com)
 
-
+<br><br>
 ## 03. Design
 Plan<br>
 Wireframe<br>
@@ -68,6 +70,7 @@ Design<br><br>
 *Wireframe your Website*<br>
 Use the research you’ve collected and keep your brief close by for reference. Use what we’ve covered to sketch out your website with pen & paper. Be sure to break your site up into different pages like ‘About’, ‘Projects’, etc. Do wireframes for each of these page that present its content in the best light. These wireframes are what we’ll use to work up our code.
 
+<br><br>
 ## 04. Amend
 Implement<br>
 Assess<br>
@@ -89,6 +92,7 @@ Photoshop
 ### Resources
 Will add these in later
 
+<br><br>
 ## 05. Build
 Writing Markup (HTML)<br>
 Styling Content (CSS)<br>
@@ -116,9 +120,10 @@ Starting HTML From Scratch<br>
 [Part 2](http://www.dontfeartheinternet.com/html/don%E2%80%99t-fear-starting-from-scratch)
 
 
+<br><br>
 # Next Weeks Tasks
 01. Write Your Brief
-*Single page*
+*Single page brief of what you aim to achieve [See Above](#01-brief)*
 02. Gather Research
 03. Design Your Site
 04. Write Your Markup
