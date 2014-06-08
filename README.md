@@ -3,6 +3,7 @@
 
 All code examples and material by [Seán Mongey](http://bypost.io/)
 
+<br><hr><br>
 # Design Stages
 01. Brief<br>
 02. Research
@@ -10,8 +11,8 @@ All code examples and material by [Seán Mongey](http://bypost.io/)
 04. Amend
 05. Build
 
-<br><br>
-## 01. Brief
+<br><hr><br>
+# 01. Brief
 Focus your brief<br>
 What is it?<br>
 Who is it for?<br>
@@ -25,8 +26,8 @@ It should be:
 A single page brief with a blurb defining what the site will be, what content is needed and who the website is targeted at. Keep in mind the needs of your target audience. You should be able to hand this brief to anyone and they’d have a decent grasp of what you’re trying to achieve.
 
 
-<br><br>
-## 02. Research
+<br><hr><br>
+# 02. Research
 Visual Research<br>
 Industry Research<br>
 Content Research<br><br>
@@ -40,8 +41,8 @@ Content Research<br><br>
 [Cargo](http://cargocollective.com)<br>
 [Sennep](http://sennep.com)
 
-<br><br>
-## 03. Design
+<br><hr><br>
+# 03. Design
 Plan<br>
 Wireframe<br>
 Design<br><br>
@@ -70,8 +71,8 @@ Design<br><br>
 *Wireframe your Website*<br>
 Use the research you’ve collected and keep your brief close by for reference. Use what we’ve covered to sketch out your website with pen & paper. Be sure to break your site up into different pages like ‘About’, ‘Projects’, etc. Do wireframes for each of these page that present its content in the best light. These wireframes are what we’ll use to work up our code.
 
-<br><br>
-## 04. Amend
+<br><hr><br>
+# 04. Amend
 Implement<br>
 Assess<br>
 Refine <br><br>
@@ -92,8 +93,9 @@ Photoshop
 ### Resources
 Will add these in later
 
-<br><br>
-## 05. Build
+
+<br><hr><br>
+# 05. Build
 Writing Markup (HTML)<br>
 Styling Content (CSS)<br>
 Coding Interaction (CSS/JS)<br>
@@ -120,14 +122,22 @@ Starting HTML From Scratch<br>
 [Part 2](http://www.dontfeartheinternet.com/html/don%E2%80%99t-fear-starting-from-scratch)
 
 
-<br><br>
+<br><hr><br>
 # Next Weeks Tasks
-01. Write Your Brief
+### 01. Write Your Brief<br>
 *Single page brief of what you aim to achieve [See Above](#01-brief)*
-02. Gather Research
-03. Design Your Site
-04. Write Your Markup
-05. Add Basic Styles 
+
+### 02. Gather Research<br> 
+*Get files, websites, links and references and mail me a zip [See Above](#02-research)*
+
+### 03. Design Your Site<br>
+*Make a one page site plan of all the pages on your website. Then do wireframes [See Above](#02-research)*
+
+### 04. Write Your Markup
+*Some info [See Above](#02-research)*
+
+### 05. Add Basic Styles 
+*Some info [See Above](#02-research)*
 
 
 
