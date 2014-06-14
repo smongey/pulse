@@ -92,33 +92,33 @@ Photoshop
 
 ### Resources
 
-*General*
-[Designing for the Web](bit.ly/1hiJZz6)
-[10 Things to Know Before Designing for  the Web](bit.ly/1p2ySyB)
+*General*<br>
+[Designing for the Web](bit.ly/1hiJZz6)<br>
+[10 Things to Know Before Designing for  the Web](bit.ly/1p2ySyB)<br><br>
 
-*Breif*
-[8 Questions to Ask a Client](bit.ly/1j6CCIh)
+*Breif*<br>
+[8 Questions to Ask a Client](bit.ly/1j6CCIh)<br><br>
 
-*Research*
-[Pinterest](http://pinterest.com)
-[SiteInspire](http://siteinspire.com)
-[Hover States](http://hoverstat.es)
+*Research*<br>
+[Pinterest](http://pinterest.com)<br>
+[SiteInspire](http://siteinspire.com)<br>
+[Hover States](http://hoverstat.es)<br><br>
 
-*Typography*
-[The Elements of Typographic Style](bit.ly/1kGaRuB)
+*Typography*<br>
+[The Elements of Typographic Style](bit.ly/1kGaRuB)<br><br>
 
-*Colour*
-[Flat UI Colours](flatuicolors.com)
+*Colour*<br>
+[Flat UI Colours](flatuicolors.com)<br><br>
 
-*Wireframing*
-Photoshop or Illustrator
-[Wireframe](wireframe.cc)
+*Wireframing*<br>
+Photoshop or Illustrator<br>
+[Wireframe](wireframe.cc)<br><br>
 
-*Online Learning* 
-[Lynda](http://lynda.com)
-[CSS Tricks](http://css-tricks.com/)
-[Dont Fear The Internet](bit.ly/1urY9lH)
-[TutPlus](bit.ly/1mjQjnW)
+*Online Learning* <br>
+[Lynda](http://lynda.com)<br>
+[CSS Tricks](http://css-tricks.com/)<br>
+[Dont Fear The Internet](bit.ly/1urY9lH)<br>
+[TutPlus](bit.ly/1mjQjnW)<br>
 [Metho & Craft](http://methodandcraft.com/)
 
 
