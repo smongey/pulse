@@ -119,7 +119,7 @@ Photoshop or Illustrator<br>
 [CSS Tricks](http://css-tricks.com/)<br>
 [Dont Fear The Internet](bit.ly/1urY9lH)<br>
 [TutPlus](bit.ly/1mjQjnW)<br>
-[Metho & Craft](http://methodandcraft.com/)
+[Method & Craft](http://methodandcraft.com/)
 
 
 <br><hr><br>
