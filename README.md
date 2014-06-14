@@ -103,6 +103,7 @@ Photoshop
 [Pinterest](http://pinterest.com)<br>
 [SiteInspire](http://siteinspire.com)<br>
 [Hover States](http://hoverstat.es)<br><br>
+[Designspiration](http://designspiration.net/)
 
 *Typography*<br>
 [The Elements of Typographic Style](bit.ly/1kGaRuB)<br><br>
@@ -116,12 +117,12 @@ Photoshop or Illustrator<br>
 Keynote for Mac<br><br>
 
 *Online Learning* <br>
+[Codecademy](http://www.codecademy.com/learn)<br>
 [Lynda](http://lynda.com)<br>
 [CSS Tricks](http://css-tricks.com/)<br>
 [Dont Fear The Internet](bit.ly/1urY9lH)<br>
 [TutPlus](bit.ly/1mjQjnW)<br>
-[Method & Craft](http://methodandcraft.com/)
-
+[Method & Craft](http://methodandcraft.com/)<br>
 
 <br><hr><br>
 # 05. Build
