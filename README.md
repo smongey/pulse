@@ -91,7 +91,35 @@ Pen & Paper<br>
 Photoshop
 
 ### Resources
-Will add these in later
+
+*General*
+[Designing for the Web](bit.ly/1hiJZz6)
+[10 Things to Know Before Designing for  the Web](bit.ly/1p2ySyB)
+
+*Breif*
+[8 Questions to Ask a Client](bit.ly/1j6CCIh)
+
+*Research*
+[Pinterest](http://pinterest.com)
+[SiteInspire](http://siteinspire.com)
+[Hover States](http://hoverstat.es)
+
+*Typography*
+[The Elements of Typographic Style](bit.ly/1kGaRuB)
+
+*Colour*
+[Flat UI Colours](flatuicolors.com)
+
+*Wireframing*
+Photoshop or Illustrator
+[Wireframe](wireframe.cc)
+
+*Online Learning* 
+[Lynda](http://lynda.com)
+[CSS Tricks](http://css-tricks.com/)
+[Dont Fear The Internet](bit.ly/1urY9lH)
+[TutPlus](bit.ly/1mjQjnW)
+[Metho & Craft](http://methodandcraft.com/)
 
 
 <br><hr><br>
