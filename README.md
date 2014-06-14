@@ -110,9 +110,10 @@ Photoshop
 *Colour*<br>
 [Flat UI Colours](flatuicolors.com)<br><br>
 
-*Wireframing*<br>
+*Wireframing/Design*<br>
 Photoshop or Illustrator<br>
-[Wireframe](wireframe.cc)<br><br>
+[Wireframe](wireframe.cc)<br>
+Keynote for Mac<br><br>
 
 *Online Learning* <br>
 [Lynda](http://lynda.com)<br>
